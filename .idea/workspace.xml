@@ -6,8 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="2640fd52-b08c-42ff-9f73-93641882ba1f" name="Changes" comment="웹 개발 기초">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/hellospring/controller/MemberController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/hello/hellospring/controller/MemberController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/hellospring/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/hellospring/controller/HomeController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/hello/hellospring/controller/MemberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/hellospring/controller/MemberController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hello/hellospring/repository/MemberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/hellospring/repository/MemberRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/members/createMemberForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/members/createMemberForm.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -238,6 +240,7 @@
       <workItem from="1643108574368" duration="929000" />
       <workItem from="1643110906372" duration="4047000" />
       <workItem from="1643541233858" duration="5862000" />
+      <workItem from="1643892635016" duration="3376000" />
     </task>
     <task id="LOCAL-00001" summary="웹 개발 기초">
       <created>1642773358812</created>
@@ -295,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643543404841</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="웹 개발 기초">
+      <created>1643805863706</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1643805863706</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
