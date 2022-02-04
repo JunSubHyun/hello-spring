@@ -72,8 +72,8 @@
       <list>
         <option value="Interface" />
         <option value="JUnit5 Test Class" />
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -112,9 +112,9 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/templates" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -125,6 +125,9 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="hello.hellospring.service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="hello.hellospring.service" />
     </key>
   </component>
@@ -236,7 +239,9 @@
       <workItem from="1643108574368" duration="929000" />
       <workItem from="1643110906372" duration="4047000" />
       <workItem from="1643541233858" duration="5862000" />
-      <workItem from="1643892635016" duration="4106000" />
+      <workItem from="1643892635016" duration="4135000" />
+      <workItem from="1643980818127" duration="2971000" />
+      <workItem from="1643987405239" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="웹 개발 기초">
       <created>1642773358812</created>
@@ -308,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643896156215</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="웹 개발 기초  회원 메모리 저장">
+      <created>1643897066770</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1643897066770</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
